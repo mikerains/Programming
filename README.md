@@ -9,4 +9,6 @@
 # Github
 * Repository Webhooks: https://github.com/mikerains/Programming/settings/hooks
 
+# 12 Factor
+* https://12factor.net/admin-processes
 
