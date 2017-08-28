@@ -12,3 +12,7 @@
 # 12 Factor
 * https://12factor.net/admin-processes
 
+# Hyper-v
+* https://msdn.microsoft.com/en-us/library/windows/hardware/ff542202(v=vs.85).aspx - turn on/off hyper v
+  * bcdedit /set hypervisorlaunchtype [Off | Auto]
+  
