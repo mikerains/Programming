@@ -24,3 +24,6 @@ https://css-tricks.com/switching-site-https-shoes*   tring-budget/
 * https://stackoverflow.com/questions/35409127/how-to-create-a-csr-file-for-azure-web-app
 * https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-ssl
 * https://www.digicert.com/csr-creation-ssl-installation-windows-azure-website.htm
+
+### Certificate Request (CSR)
+* Input File Parameters: https://technet.microsoft.com/en-us/library/dn296456(v=ws.11).aspx
