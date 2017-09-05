@@ -2,8 +2,8 @@ started Sep 4, 2017
 
 # SSL certificates
 ## The Basics
-Certificates have 4 major service variances
-*  Warranty: Anywahere between $10,000 and $1 million
+Certificates have 3 major service variances
+*  Warranty: Anywhere between $10,000 and $1 million
 *  Are wildcardable, so will work on any first-level subdomains
 * Validate only the domain name or also validate Business Name
 
@@ -15,3 +15,5 @@ Certificates have 4 major service variances
 ## Https Free By Leveraging Cloudflare CDN
 https://css-tricks.com/switching-site-https-shoes*   tring-budget/
 
+## M7 Computers
+* Using this one for Development: https://www.namecheap.com/security/ssl-certificates/comodo/positivessl.aspx
