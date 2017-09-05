@@ -20,6 +20,7 @@ https://css-tricks.com/switching-site-https-shoes*   tring-budget/
 
 ## Obtaining a certificate for Azure
 * https://azure.microsoft.com/en-us/blog/obtaining-a-certificate-for-use-with-windows-azure-web-sites-waws/
+* https://www.digicert.com/csr-creation-ssl-installation-windows-azure-website.htm
 * https://stackoverflow.com/questions/35409127/how-to-create-a-csr-file-for-azure-web-app
 * https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-ssl
 * https://www.digicert.com/csr-creation-ssl-installation-windows-azure-website.htm
