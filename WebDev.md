@@ -27,3 +27,5 @@ https://css-tricks.com/switching-site-https-shoes*   tring-budget/
 
 ### Certificate Request (CSR)
 * Input File Parameters: https://technet.microsoft.com/en-us/library/dn296456(v=ws.11).aspx
+* https://technet.microsoft.com/en-us/library/dn296456.aspx
+
