@@ -16,3 +16,5 @@
 * https://msdn.microsoft.com/en-us/library/windows/hardware/ff542202(v=vs.85).aspx - turn on/off hyper v
   * bcdedit /set hypervisorlaunchtype [Off | Auto]
   
+# Windows Tools
+* Linux Subsystem on Windows 10 --   https://msdn.microsoft.com/commandline/wsl/install_guide?f=255&MSPPError=-2147217396
