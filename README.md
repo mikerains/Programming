@@ -18,6 +18,7 @@
   
 # Windows Tools
 * Linux Subsystem on Windows 10 --   https://msdn.microsoft.com/commandline/wsl/install_guide?f=255&MSPPError=-2147217396
+* Bitlocker Recovery: https://onedrive.live.com/RecoveryKey
 
 # Microsoft Accoutns: Personal vs. Work/School
 * Overview: http://www.brucebnews.com/2016/06/finding-your-way-through-microsofts-maze-of-work-and-personal-accounts/
