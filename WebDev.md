@@ -29,3 +29,24 @@ https://css-tricks.com/switching-site-https-shoes*   tring-budget/
 * Input File Parameters: https://technet.microsoft.com/en-us/library/dn296456(v=ws.11).aspx
 * https://technet.microsoft.com/en-us/library/dn296456.aspx
 
+
+# W3C - Navigation Timing
+How to measure time to retrieve pages by using the javascript 'performance' object
+* https://www.w3.org/TR/navigation-timing/#processing-model
+````
+<html>
+<head>
+<script type="text/javascript">
+function onLoad() {
+  var now = new Date().getTime();
+  var page_load_time = now - performance.timing.navigationStart;
+  alert("User-perceived page loading time: " + page_load_time);
+}
+
+</script>
+</head>
+<body onload="onLoad()">
+<!- Main page body goes from here. -->
+</body>
+</html>
+````
